@@ -1,0 +1,7 @@
+﻿libs/
+lib/
+*.jar
+.idea/
+*.class
+out/
+bin/
