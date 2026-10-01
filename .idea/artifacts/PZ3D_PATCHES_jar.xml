@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="PZ3D-PATCHES:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/PZ3D_PATCHES_jar</output-path>
-    <root id="archive" name="PZ3D-PATCHES.jar">
-      <element id="module-output" name="PZ3D-PATCHES" />
-    </root>
-  </artifact>
-</component>
